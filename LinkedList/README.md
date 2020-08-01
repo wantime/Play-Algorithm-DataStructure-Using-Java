@@ -30,6 +30,8 @@
 [143 重排链表](https://leetcode-cn.com/problems/reorder-list/)
 使用反转链表的方法，反转后半段
 
+[147 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
+
 [203 删除节点](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 使用虚拟头结点（哨兵）来优化代码，统一逻辑
 

@@ -1,4 +1,6 @@
-### LeetCode与一些经典问题
+## LeetCode与一些经典问题，问题偏基础一些
+
+#### 强力推荐BOBO老师的课程
 
 [双指针问题](DoublePointer)  
 

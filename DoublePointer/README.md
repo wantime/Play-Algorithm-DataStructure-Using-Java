@@ -1,7 +1,11 @@
 ## 双指针问题
 
-### 同向指针问题
 BinarySearch：二分搜索，典型的双指针问题，循环不变量，变量的定义，边界的考虑
+[34 在排序数组中找到第一个和最后一个target](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
+这道题是二分搜索进阶版本，很适合练习二分搜索
+
+
+### 同向指针问题
 
 [26 删除重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 
@@ -27,6 +31,9 @@ Quick Sort，这道题如果是维护一个动态的数组（不断有元素进�
 ### 对撞指针问题
 [167 Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)  
 对撞指针的问题一般除了指针本身，个人觉得指针移动的条件也非常重要
+
+[977 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)  
+这道题从两头开始往中间寻找，先给数组中最大的数字赋值，然后逐步递减，就可以减少很多代码量，简化了问题
 
 [125 Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)
 

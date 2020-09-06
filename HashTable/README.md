@@ -4,11 +4,11 @@
 
 [15 Three Sum](https://leetcode-cn.com/problems/3sum/)  
 
-[16 3 sum Closet](https://leetcode-cn.com/problems/3sum-closest/)  
+[16 3sum Closet](https://leetcode-cn.com/problems/3sum-closest/)  
 
 [18 Four Sum](https://leetcode-cn.com/problems/4sum/)  
 
-[454 4 Sum II](https://leetcode-cn.com/problems/4sum-ii/)  
+[454 4Sum II](https://leetcode-cn.com/problems/4sum-ii/)  
 这道题是求元组的数目，在用map进行存储时，第一个存两个数的和，第二个存可以得出该sum的组合数，这样在第二次遍历时，就可以直接获得该组合的元组数
 
 
